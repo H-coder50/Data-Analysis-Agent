@@ -1,0 +1,11 @@
+# Streamlit web dashboard banane ke liye
+streamlit
+
+# CSV file ko read aur analyze karne ke liye
+pandas
+
+# Agent aur tools ka framework
+langchain
+
+# Free local Ollama model se LangChain connection
+langchain-ollama
